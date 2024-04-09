@@ -1,4 +1,5 @@
 # godot_lobby_system
+Feel free to use.
 
 Requires your own UI to handle all functions. You also **need** to select your root node of your game and lobby scene.
 The system need your game scene to be like that to succesfully operate with RPC functions:
